@@ -8,19 +8,19 @@
 </p>
 
 <p>
-<img src="https://raw.githubusercontent.com/gvaldovi/L8x-jetstream-liveware-crud/master/resources/assets/img1.png" >
+<img src="https://raw.githubusercontent.com/gvaldovi/L8x-jetstream-liveware-crud/master/resources/assets/1.png" >
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/gvaldovi/L8x-jetstream-liveware-crud/master/resources/assets/img2.png" >
+<img src="https://raw.githubusercontent.com/gvaldovi/L8x-jetstream-liveware-crud/master/resources/assets/2.png" >
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/gvaldovi/L8x-jetstream-liveware-crud/master/resources/assets/img3.png" >
+<img src="https://raw.githubusercontent.com/gvaldovi/L8x-jetstream-liveware-crud/master/resources/assets/3.png" >
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/gvaldovi/L8x-jetstream-liveware-crud/master/resources/assets/img4.png" >
+<img src="https://raw.githubusercontent.com/gvaldovi/L8x-jetstream-liveware-crud/master/resources/assets/4.png" >
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/gvaldovi/L8x-jetstream-liveware-crud/master/resources/assets/img5.png" >
+<img src="https://raw.githubusercontent.com/gvaldovi/L8x-jetstream-liveware-crud/master/resources/assets/5.png" >
 </p>
 
 ## About Laravel
